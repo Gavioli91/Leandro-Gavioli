@@ -1,4 +1,5 @@
-📜 Olá, devs, eu sou o Leandro! Sou formado em Tecnologia em Processos Gerenciais;
+📜 Olá, devs, sou o Leandro! Formado em Tecnologia em Processos Gerenciais;
+♿ Sou PcD (Pessoa com Deficiência);
 💽 Atualmente estou aprendendo desenvolvimento web na Trybe;
 🎙️ Curiosidades: já trabalhei como locutor de rádio; 
 🛻 e tenho vontade de participar de rallys.
